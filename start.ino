@@ -21,5 +21,7 @@ void setup() {
 }
 
 void loop() {
-  caseThree();
+  // caseOne();
+  // caseTwo();
+  // caseThree();
 }
